@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Electron build output
+dist/
+out/
+release/
+*.asar
+
+# OS junk
+.DS_Store
+Thumbs.db
